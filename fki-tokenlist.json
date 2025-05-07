@@ -1,0 +1,19 @@
+{
+  "name": "FKI Token List",
+  "timestamp": "2025-05-05T00:00:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 421614,
+      "address": "0xdde083332433df9b604c18275444e67460e0a68c",
+      "name": "FRANKI",
+      "symbol": "FKI",
+      "decimals": 18,
+      "logoURI": "https://github.com/fpmorello/fki-token-assets/blob/main/Logo%20256.png"
+    }
+  ]
+}
